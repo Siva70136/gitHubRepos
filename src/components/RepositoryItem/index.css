@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.repo-item {
+  list-style: none;
+  background-color: #f8f8ff;
+  padding: 10px;
+  margin: 3px;
+  width: 250px;
+}
+
+.avatar {
+  width: 100px;
+}
+.name {
+  font-size: 18px;
+  color: #e73959;
+}
+.issue-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.star {
+  width: 20px;
+  height: 20px;
+}

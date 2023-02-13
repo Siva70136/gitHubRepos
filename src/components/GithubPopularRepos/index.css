@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.app-container {
+  font-family: 'Lobster';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+.repos-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
